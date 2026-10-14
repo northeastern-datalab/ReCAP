@@ -1,4 +1,4 @@
-# ReCAP Compiler
+# ReCAP
 
 Implementation of ReCAP ("Efficient Path Query Processing in Relational
 Database Systems"): a compiler that takes a path query -- a label regex plus
